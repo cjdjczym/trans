@@ -1,0 +1,26 @@
+{
+    "plants": [
+        {
+            "name": "麝香百合",
+            "desc": "又名铁炮百合、复活节百合，花朵纯白，筒状，横向开放",
+            "avatar": "https://raw.githubusercontent.com/cjdjczym/images/master/cjdj/u=605032888,3886132680&fm=74&app=80&f=JPEG&size=f121,121.jpg",
+            "images": [
+                "https://raw.githubusercontent.com/cjdjczym/images/master/cjdj/80cb39dbb6fd52668ce375d7af18972bd507362c.jpg",
+                "https://raw.githubusercontent.com/cjdjczym/images/master/cjdj/8cb1cb1349540923fd802bbd9658d109b2de4903.jpg",
+                "https://raw.githubusercontent.com/cjdjczym/images/master/cjdj/2934349b033b5bb51c35683d32d3d539b700bc17.jpg"
+            ],
+            "url": "https://baike.baidu.com/item/%E9%BA%9D%E9%A6%99%E7%99%BE%E5%90%88/1670423"
+        },
+        {
+            "name": "卷丹百合",
+            "desc": "因花瓣上有紫黑色斑纹，很像虎背之花纹，故有虎皮百合之雅称",
+            "avatar": "https://raw.githubusercontent.com/cjdjczym/images/master/cjdj/u=399855785,289779654&fm=74&app=80&f=JPEG&size=f121,121.jpg",
+            "images": [
+                "https://raw.githubusercontent.com/cjdjczym/images/master/cjdj/c9fcc3cec3fdfc030b1de48fd53f8794a4c2269b.jpg",
+                "https://raw.githubusercontent.com/cjdjczym/images/master/cjdj/b3b7d0a20cf431adf4b7440e4a36acaf2edd989b.jpg",
+                "https://raw.githubusercontent.com/cjdjczym/images/master/cjdj/cf1b9d16fdfaaf51ae8686888d5494eef01f7a9b.jpg"
+            ],
+            "url": "https://baike.baidu.com/item/卷丹/1665633"
+        }
+    ]
+}
