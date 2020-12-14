@@ -12,15 +12,18 @@
     "commments": [
         {
             "avatar": "https://raw.githubusercontent.com/cjdjczym/images/master/cjdj/timg.jpg",
-            "msg": "哇，真的好好看！"
+            "msg": "哇，真的好好看！",
+            "username": "围观群众1"
         },
         {
             "avatar": "https://raw.githubusercontent.com/cjdjczym/images/master/cjdj/timg.jpg",
-            "msg": "哇，真的好好看！"
+            "msg": "哇，真的好好看！",
+            "username": "围观群众2"
         },
         {
             "avatar": "https://raw.githubusercontent.com/cjdjczym/images/master/cjdj/timg.jpg",
-            "msg": "楼上别复读了"
+            "msg": "楼上别复读了",
+            "username": "围观群众3"
         }
     ]
 }
