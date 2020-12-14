@@ -13,17 +13,20 @@
         {
             "avatar": "https://raw.githubusercontent.com/cjdjczym/images/master/cjdj/timg.jpg",
             "msg": "哇，真的好好看！",
-            "username": "围观群众1"
+            "username": "围观群众1",
+            "time": "10分钟前"
         },
         {
             "avatar": "https://raw.githubusercontent.com/cjdjczym/images/master/cjdj/timg.jpg",
             "msg": "哇，真的好好看！",
-            "username": "围观群众2"
+            "username": "围观群众2",
+            "time": "3小时前"
         },
         {
             "avatar": "https://raw.githubusercontent.com/cjdjczym/images/master/cjdj/timg.jpg",
             "msg": "楼上别复读了",
-            "username": "围观群众3"
+            "username": "围观群众3",
+            "time": "2分钟前"
         }
     ]
 }
