@@ -138,6 +138,18 @@ int main(int argc, char **argv) {
             }
             j = j->next, k = k->prev;
         }
+        
+        j = a->next;
+        while (j != b) {
+            if (intersects(j->c, tmp)) {
+                double dx = tmp->x - j->c->x, dy = tmp->y - j->c->y;
+                double dist = sqrt(dx * dx + dy * dy);
+                double mod = tmp->r + j->c->r - dist;
+                tmp->x += mod / dist * (tmp->x - j->c->x);
+                tmp->y += mod / dist * (tmp->y - j->c->y);
+            }
+            j = j->next;
+        }
 
         c = alloc_node(tmp);
 
