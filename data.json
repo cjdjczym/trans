@@ -1,0 +1,1043 @@
+{
+    "code": 200,
+    "data": {
+        "courses": {
+            "major": [
+                {
+                    "arrangeList": [
+                        {
+                            "location": "55楼A区308",
+                            "teacherList": [
+                                "于强"
+                            ],
+                            "unitList": [
+                                1,
+                                2
+                            ],
+                            "weekList": [
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9,
+                                10,
+                                11
+                            ],
+                            "weekday": 1
+                        },
+                        {
+                            "location": "55楼A区308",
+                            "teacherList": [
+                                "于强"
+                            ],
+                            "unitList": [
+                                3,
+                                4
+                            ],
+                            "weekList": [
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9,
+                                10,
+                                11
+                            ],
+                            "weekday": 3
+                        }
+                    ],
+                    "campus": "北洋园校区",
+                    "classId": "05045",
+                    "courseId": "2180042",
+                    "credit": "2.0",
+                    "name": "人工智能（双语）",
+                    "teacherList": "于强(副教授)",
+                    "weeks": "4-11"
+                },
+                {
+                    "arrangeList": [
+                        {
+                            "location": "46楼A120",
+                            "teacherList": [
+                                "冯志勇"
+                            ],
+                            "unitList": [
+                                1,
+                                2
+                            ],
+                            "weekList": [
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9,
+                                10,
+                                11
+                            ],
+                            "weekday": 1
+                        },
+                        {
+                            "location": "46楼A120",
+                            "teacherList": [
+                                "冯志勇"
+                            ],
+                            "unitList": [
+                                5,
+                                6
+                            ],
+                            "weekList": [
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9,
+                                10,
+                                11
+                            ],
+                            "weekday": 5
+                        }
+                    ],
+                    "campus": "北洋园校区",
+                    "classId": "01230",
+                    "courseId": "2180265",
+                    "credit": "2.0",
+                    "name": "软件工程1（双语）",
+                    "teacherList": "冯志勇(教授)",
+                    "weeks": "4-11"
+                },
+                {
+                    "arrangeList": [
+                        {
+                            "location": "46楼A120",
+                            "teacherList": [
+                                "徐超"
+                            ],
+                            "unitList": [
+                                1,
+                                2
+                            ],
+                            "weekList": [
+                                12,
+                                13,
+                                14,
+                                15,
+                                16,
+                                17,
+                                18,
+                                19
+                            ],
+                            "weekday": 1
+                        },
+                        {
+                            "location": "46楼A120",
+                            "teacherList": [
+                                "徐超"
+                            ],
+                            "unitList": [
+                                5,
+                                6
+                            ],
+                            "weekList": [
+                                12,
+                                13,
+                                14,
+                                15,
+                                16,
+                                17,
+                                18,
+                                19
+                            ],
+                            "weekday": 5
+                        }
+                    ],
+                    "campus": "北洋园校区",
+                    "classId": "01229",
+                    "courseId": "2180266",
+                    "credit": "2.0",
+                    "name": "软件工程2（双语）",
+                    "teacherList": "徐超(教授)",
+                    "weeks": "12-19"
+                },
+                {
+                    "arrangeList": [
+                        {
+                            "location": "46楼A309",
+                            "teacherList": [
+                                "李罡"
+                            ],
+                            "unitList": [
+                                3,
+                                4
+                            ],
+                            "weekList": [
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9,
+                                10,
+                                11
+                            ],
+                            "weekday": 3
+                        },
+                        {
+                            "location": "46楼A309",
+                            "teacherList": [
+                                "李罡"
+                            ],
+                            "unitList": [
+                                7,
+                                8
+                            ],
+                            "weekList": [
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9,
+                                10,
+                                11
+                            ],
+                            "weekday": 7
+                        }
+                    ],
+                    "campus": "北洋园校区",
+                    "classId": "02326",
+                    "courseId": "2440033",
+                    "credit": "1.5",
+                    "name": "设计模式",
+                    "teacherList": "李罡(讲师)",
+                    "weeks": "4-11"
+                },
+                {
+                    "arrangeList": [],
+                    "campus": "",
+                    "classId": "03056",
+                    "courseId": "2440042",
+                    "credit": "1.5",
+                    "name": "程序设计中级实践",
+                    "teacherList": "李罡(讲师)",
+                    "weeks": "4-5"
+                },
+                {
+                    "arrangeList": [
+                        {
+                            "location": "45楼B304",
+                            "teacherList": [
+                                "谢宗霞"
+                            ],
+                            "unitList": [
+                                3,
+                                4
+                            ],
+                            "weekList": [
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9,
+                                10,
+                                11
+                            ],
+                            "weekday": 3
+                        },
+                        {
+                            "location": "45楼B304",
+                            "teacherList": [
+                                "谢宗霞"
+                            ],
+                            "unitList": [
+                                9,
+                                10
+                            ],
+                            "weekList": [
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9,
+                                10,
+                                11
+                            ],
+                            "weekday": 9
+                        }
+                    ],
+                    "campus": "北洋园校区",
+                    "classId": "03641",
+                    "courseId": "2440073",
+                    "credit": "1.5",
+                    "name": "数据仓库与数据挖掘",
+                    "teacherList": "谢宗霞(副教授)",
+                    "weeks": "4-11"
+                },
+                {
+                    "arrangeList": [
+                        {
+                            "location": "46楼A306",
+                            "teacherList": [
+                                "陈俊洁"
+                            ],
+                            "unitList": [
+                                7,
+                                8
+                            ],
+                            "weekList": [
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9,
+                                10,
+                                11
+                            ],
+                            "weekday": 7
+                        },
+                        {
+                            "location": "46楼A306",
+                            "teacherList": [
+                                "陈俊洁"
+                            ],
+                            "unitList": [
+                                5,
+                                6
+                            ],
+                            "weekList": [
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9,
+                                10,
+                                11
+                            ],
+                            "weekday": 5
+                        }
+                    ],
+                    "campus": "北洋园校区",
+                    "classId": "05013",
+                    "courseId": "2440075",
+                    "credit": "2.0",
+                    "name": "编译原理与技术",
+                    "teacherList": "陈俊洁(副教授)",
+                    "weeks": "4-11"
+                },
+                {
+                    "arrangeList": [],
+                    "campus": "",
+                    "classId": "05078",
+                    "courseId": "2440091",
+                    "credit": "3.0",
+                    "name": "软件工程综合实践",
+                    "teacherList": "王立(副教授)",
+                    "weeks": "1-3"
+                },
+                {
+                    "arrangeList": [],
+                    "campus": "",
+                    "classId": "03074",
+                    "courseId": "4010009",
+                    "credit": "0.0",
+                    "name": "体育锻炼5",
+                    "teacherList": "陈田希(讲师)",
+                    "weeks": "4-19"
+                },
+                {
+                    "arrangeList": [
+                        {
+                            "location": "46楼A305",
+                            "teacherList": [
+                                "赵垣玮"
+                            ],
+                            "unitList": [
+                                1,
+                                2
+                            ],
+                            "weekList": [
+                                4,
+                                5,
+                                6,
+                                7,
+                                8,
+                                9,
+                                10,
+                                11,
+                                12,
+                                13,
+                                14,
+                                15,
+                                16,
+                                17,
+                                18,
+                                19
+                            ],
+                            "weekday": 1
+                        }
+                    ],
+                    "campus": "北洋园校区",
+                    "classId": "03054",
+                    "courseId": "5100077",
+                    "credit": "2.0",
+                    "name": "择业指导",
+                    "teacherList": "赵垣玮(助教（政）)",
+                    "weeks": "4-19"
+                }
+            ],
+            "minor": []
+        },
+        "exams": [
+            {
+                "arrange": "09:00~11:00",
+                "date": "2022-08-22",
+                "ext": "",
+                "id": "03816",
+                "location": "45楼B203",
+                "name": "大学英语4",
+                "seat": "43",
+                "state": "正常",
+                "type": "期末考试"
+            },
+            {
+                "arrange": "18:00~20:00",
+                "date": "2022-08-29",
+                "ext": "",
+                "id": "00653",
+                "location": "33楼113",
+                "name": "计算机网络",
+                "seat": "130",
+                "state": "正常",
+                "type": "期末考试"
+            },
+            {
+                "arrange": "18:00~20:00",
+                "date": "2022-09-01",
+                "ext": "",
+                "id": "00654",
+                "location": "46楼A305",
+                "name": "数字逻辑与数字系统",
+                "seat": "66",
+                "state": "正常",
+                "type": "期末考试"
+            }
+        ],
+        "gpa": {
+            "courses": [
+                {
+                    "classType": "必修",
+                    "code": "1140001",
+                    "credit": 0.5,
+                    "gpa": 4.0,
+                    "name": "法制安全教育",
+                    "no": "",
+                    "rawScore": "100",
+                    "score": 100.0,
+                    "semester": "2020-2021 1",
+                    "type": "文化素质教育必修"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2100004",
+                    "credit": 6.0,
+                    "gpa": 3.7,
+                    "name": "高等数学2A",
+                    "no": "",
+                    "rawScore": "89",
+                    "score": 89.0,
+                    "semester": "2020-2021 1",
+                    "type": "数学"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2100558",
+                    "credit": 3.5,
+                    "gpa": 4.0,
+                    "name": "线性代数及其应用",
+                    "no": "",
+                    "rawScore": "96",
+                    "score": 96.0,
+                    "semester": "2020-2021 1",
+                    "type": "数学"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2111292",
+                    "credit": 2.0,
+                    "gpa": 3.3,
+                    "name": "大学英语1",
+                    "no": "",
+                    "rawScore": "84",
+                    "score": 84.0,
+                    "semester": "2020-2021 1",
+                    "type": "外语"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2160279",
+                    "credit": 0.0,
+                    "gpa": 0.0,
+                    "name": "大学计算机基础1",
+                    "no": "",
+                    "rawScore": "P",
+                    "score": 0.0,
+                    "semester": "2020-2021 1",
+                    "type": "计算机"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2180277",
+                    "credit": 4.0,
+                    "gpa": 3.0,
+                    "name": "离散数学",
+                    "no": "",
+                    "rawScore": "81",
+                    "score": 81.0,
+                    "semester": "2020-2021 1",
+                    "type": "数学"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2180278",
+                    "credit": 2.0,
+                    "gpa": 4.0,
+                    "name": "计算机系统导论",
+                    "no": "",
+                    "rawScore": "90",
+                    "score": 90.0,
+                    "semester": "2020-2021 1",
+                    "type": "大类基础课"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2310001",
+                    "credit": 1.0,
+                    "gpa": 3.7,
+                    "name": "体育A",
+                    "no": "",
+                    "rawScore": "89",
+                    "score": 89.0,
+                    "semester": "2020-2021 1",
+                    "type": "体育"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2440099",
+                    "credit": 3.0,
+                    "gpa": 3.7,
+                    "name": "程序设计原理",
+                    "no": "",
+                    "rawScore": "89",
+                    "score": 89.0,
+                    "semester": "2020-2021 1",
+                    "type": "大类基础课"
+                },
+                {
+                    "classType": "必修",
+                    "code": "4010005",
+                    "credit": 0.0,
+                    "gpa": 0.0,
+                    "name": "体育锻炼 1",
+                    "no": "",
+                    "rawScore": "A",
+                    "score": 0.0,
+                    "semester": "2020-2021 1",
+                    "type": "体育"
+                },
+                {
+                    "classType": "必修",
+                    "code": "4080001",
+                    "credit": 0.5,
+                    "gpa": 4.0,
+                    "name": "健康教育",
+                    "no": "",
+                    "rawScore": "98",
+                    "score": 98.0,
+                    "semester": "2020-2021 1",
+                    "type": "健康教育"
+                },
+                {
+                    "classType": "必修",
+                    "code": "5100055",
+                    "credit": 3.0,
+                    "gpa": 4.0,
+                    "name": "思想道德修养与法律基础",
+                    "no": "",
+                    "rawScore": "90",
+                    "score": 90.0,
+                    "semester": "2020-2021 1",
+                    "type": "思想政治理论"
+                },
+                {
+                    "classType": "必修",
+                    "code": "5100075",
+                    "credit": 1.0,
+                    "gpa": 4.0,
+                    "name": "大学生心理健康（上）",
+                    "no": "",
+                    "rawScore": "96",
+                    "score": 96.0,
+                    "semester": "2020-2021 1",
+                    "type": "文化素质教育必修"
+                },
+                {
+                    "classType": "必修",
+                    "code": "5100078",
+                    "credit": 2.0,
+                    "gpa": 4.0,
+                    "name": "集中军事训练",
+                    "no": "",
+                    "rawScore": "90",
+                    "score": 90.0,
+                    "semester": "2020-2021 1",
+                    "type": "军事"
+                },
+                {
+                    "classType": "选修",
+                    "code": "wz52421",
+                    "credit": 1.5,
+                    "gpa": 4.0,
+                    "name": "思辨与创新",
+                    "no": "",
+                    "rawScore": "96",
+                    "score": 96.0,
+                    "semester": "2020-2021 1",
+                    "type": "文化素质选修-思维培养与沟通表达"
+                },
+                {
+                    "classType": "选修",
+                    "code": "wz52424",
+                    "credit": 2.0,
+                    "gpa": 4.0,
+                    "name": "世界舞台上的中华文明",
+                    "no": "",
+                    "rawScore": "99",
+                    "score": 99.0,
+                    "semester": "2020-2021 1",
+                    "type": "文化素质选修-社会与哲学"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2100005",
+                    "credit": 5.0,
+                    "gpa": 3.3,
+                    "name": "高等数学2B",
+                    "no": "",
+                    "rawScore": "84",
+                    "score": 84.0,
+                    "semester": "2020-2021 2",
+                    "type": "数学"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2100097",
+                    "credit": 4.0,
+                    "gpa": 4.0,
+                    "name": "大学物理2A",
+                    "no": "",
+                    "rawScore": "93",
+                    "score": 93.0,
+                    "semester": "2020-2021 2",
+                    "type": "物理"
+                },
+                {
+                    "classType": "选修",
+                    "code": "2105014",
+                    "credit": 1.0,
+                    "gpa": 4.0,
+                    "name": "宝石鉴赏",
+                    "no": "",
+                    "rawScore": "91",
+                    "score": 91.0,
+                    "semester": "2020-2021 2",
+                    "type": "文化素质选修-自然科学"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2111293",
+                    "credit": 2.0,
+                    "gpa": 3.7,
+                    "name": "大学英语2",
+                    "no": "",
+                    "rawScore": "89",
+                    "score": 89.0,
+                    "semester": "2020-2021 2",
+                    "type": "外语"
+                },
+                {
+                    "classType": "选修",
+                    "code": "2111328",
+                    "credit": 2.0,
+                    "gpa": 4.0,
+                    "name": "《左传》导读A",
+                    "no": "",
+                    "rawScore": "95",
+                    "score": 95.0,
+                    "semester": "2020-2021 2",
+                    "type": "文化素质选修-艺术与美学"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2210015",
+                    "credit": 3.0,
+                    "gpa": 4.0,
+                    "name": "中国近现代史纲要",
+                    "no": "",
+                    "rawScore": "93",
+                    "score": 93.0,
+                    "semester": "2020-2021 2",
+                    "type": "思想政治理论"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2310002",
+                    "credit": 1.0,
+                    "gpa": 4.0,
+                    "name": "体育B",
+                    "no": "",
+                    "rawScore": "91",
+                    "score": 91.0,
+                    "semester": "2020-2021 2",
+                    "type": "体育"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2440046",
+                    "credit": 3.0,
+                    "gpa": 4.0,
+                    "name": "数据结构",
+                    "no": "",
+                    "rawScore": "98",
+                    "score": 98.0,
+                    "semester": "2020-2021 2",
+                    "type": "大类基础课"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2440049",
+                    "credit": 1.5,
+                    "gpa": 3.7,
+                    "name": "程序设计综合实践",
+                    "no": "",
+                    "rawScore": "89",
+                    "score": 89.0,
+                    "semester": "2020-2021 2",
+                    "type": "课程设计"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2440050",
+                    "credit": 3.0,
+                    "gpa": 4.0,
+                    "name": "计算机系统基础",
+                    "no": "",
+                    "rawScore": "94",
+                    "score": 94.0,
+                    "semester": "2020-2021 2",
+                    "type": "大类基础课"
+                },
+                {
+                    "classType": "",
+                    "code": "4010006",
+                    "credit": 0.0,
+                    "gpa": 0.0,
+                    "name": "体育锻炼2",
+                    "no": "",
+                    "rawScore": "A",
+                    "score": 0.0,
+                    "semester": "2020-2021 2",
+                    "type": "体育"
+                },
+                {
+                    "classType": "必修",
+                    "code": "5100057",
+                    "credit": 2.0,
+                    "gpa": 4.0,
+                    "name": "军事理论1",
+                    "no": "",
+                    "rawScore": "92",
+                    "score": 92.0,
+                    "semester": "2020-2021 2",
+                    "type": "军事"
+                },
+                {
+                    "classType": "必修",
+                    "code": "5100076",
+                    "credit": 1.0,
+                    "gpa": 4.0,
+                    "name": "大学生心理健康（下）",
+                    "no": "",
+                    "rawScore": "93",
+                    "score": 93.0,
+                    "semester": "2020-2021 2",
+                    "type": "文化素质教育必修"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2100075",
+                    "credit": 3.0,
+                    "gpa": 4.0,
+                    "name": "概率论与数理统计1",
+                    "no": "",
+                    "rawScore": "96",
+                    "score": 96.0,
+                    "semester": "2021-2022 1",
+                    "type": "数学"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2100098",
+                    "credit": 3.0,
+                    "gpa": 3.7,
+                    "name": "大学物理2B",
+                    "no": "",
+                    "rawScore": "85",
+                    "score": 85.0,
+                    "semester": "2021-2022 1",
+                    "type": "物理"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2100346",
+                    "credit": 1.0,
+                    "gpa": 3.7,
+                    "name": "物理实验A",
+                    "no": "",
+                    "rawScore": "88.81",
+                    "score": 88.81,
+                    "semester": "2021-2022 1",
+                    "type": "物理"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2111140",
+                    "credit": 3.0,
+                    "gpa": 3.0,
+                    "name": "马克思主义基本原理",
+                    "no": "",
+                    "rawScore": "81",
+                    "score": 81.0,
+                    "semester": "2021-2022 1",
+                    "type": "思想政治理论"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2111294",
+                    "credit": 2.0,
+                    "gpa": 4.0,
+                    "name": "大学英语3",
+                    "no": "",
+                    "rawScore": "91",
+                    "score": 91.0,
+                    "semester": "2021-2022 1",
+                    "type": "外语"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2310003",
+                    "credit": 1.0,
+                    "gpa": 3.0,
+                    "name": "体育C",
+                    "no": "",
+                    "rawScore": "79",
+                    "score": 79.0,
+                    "semester": "2021-2022 1",
+                    "type": "体育"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2440031",
+                    "credit": 3.0,
+                    "gpa": 4.0,
+                    "name": "算法设计与分析",
+                    "no": "",
+                    "rawScore": "96",
+                    "score": 96.0,
+                    "semester": "2021-2022 1",
+                    "type": "大类基础课"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2440072",
+                    "credit": 1.5,
+                    "gpa": 4.0,
+                    "name": "计算机系统综合实践",
+                    "no": "",
+                    "rawScore": "97",
+                    "score": 97.0,
+                    "semester": "2021-2022 1",
+                    "type": "课程设计"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2440078",
+                    "credit": 3.0,
+                    "gpa": 4.0,
+                    "name": "操作系统原理",
+                    "no": "",
+                    "rawScore": "97",
+                    "score": 97.0,
+                    "semester": "2021-2022 1",
+                    "type": "大类基础课"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2440094",
+                    "credit": 1.0,
+                    "gpa": 4.0,
+                    "name": "计算机产业前沿与创新创业",
+                    "no": "",
+                    "rawScore": "96",
+                    "score": 96.0,
+                    "semester": "2021-2022 1",
+                    "type": "创新创业与跨学科选修"
+                },
+                {
+                    "classType": "",
+                    "code": "4010007",
+                    "credit": 0.0,
+                    "gpa": 0.0,
+                    "name": "体育锻炼3",
+                    "no": "",
+                    "rawScore": "P",
+                    "score": 0.0,
+                    "semester": "2021-2022 1",
+                    "type": "体育"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2111295",
+                    "credit": 2.0,
+                    "gpa": 3.7,
+                    "name": "大学英语4",
+                    "no": "",
+                    "rawScore": "89",
+                    "score": 89.0,
+                    "semester": "2021-2022 2",
+                    "type": "外语"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2160083",
+                    "credit": 2.0,
+                    "gpa": 4.0,
+                    "name": "面向对象程序设计",
+                    "no": "",
+                    "rawScore": "94",
+                    "score": 94.0,
+                    "semester": "2021-2022 2",
+                    "type": "专业核心"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2180267",
+                    "credit": 2.0,
+                    "gpa": 4.0,
+                    "name": "形式化方法（双语）",
+                    "no": "",
+                    "rawScore": "96",
+                    "score": 96.0,
+                    "semester": "2021-2022 2",
+                    "type": "专业核心"
+                },
+                {
+                    "classType": "",
+                    "code": "2310004",
+                    "credit": 1.0,
+                    "gpa": 0.0,
+                    "name": "体育D",
+                    "no": "",
+                    "rawScore": "P",
+                    "score": 0.0,
+                    "semester": "2021-2022 2",
+                    "type": "体育"
+                },
+                {
+                    "classType": "选修",
+                    "code": "2330025",
+                    "credit": 3.0,
+                    "gpa": 4.0,
+                    "name": "数学模型（翻转）",
+                    "no": "",
+                    "rawScore": "95",
+                    "score": 95.0,
+                    "semester": "2021-2022 2",
+                    "type": "数学"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2440041",
+                    "credit": 1.5,
+                    "gpa": 3.7,
+                    "name": "程序设计初级实践",
+                    "no": "",
+                    "rawScore": "87",
+                    "score": 87.0,
+                    "semester": "2021-2022 2",
+                    "type": "课程设计"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2440125",
+                    "credit": 3.0,
+                    "gpa": 4.0,
+                    "name": "数字逻辑与数字系统",
+                    "no": "",
+                    "rawScore": "93",
+                    "score": 93.0,
+                    "semester": "2021-2022 2",
+                    "type": "大类基础课"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2440126",
+                    "credit": 2.0,
+                    "gpa": 4.0,
+                    "name": "数据库原理",
+                    "no": "",
+                    "rawScore": "96",
+                    "score": 96.0,
+                    "semester": "2021-2022 2",
+                    "type": "大类基础课"
+                },
+                {
+                    "classType": "必修",
+                    "code": "2440130",
+                    "credit": 2.0,
+                    "gpa": 3.7,
+                    "name": "计算机网络",
+                    "no": "",
+                    "rawScore": "87",
+                    "score": 87.0,
+                    "semester": "2021-2022 2",
+                    "type": "大类基础课"
+                },
+                {
+                    "classType": "必修",
+                    "code": "4010008",
+                    "credit": 0.0,
+                    "gpa": 0.0,
+                    "name": "体育锻炼4",
+                    "no": "",
+                    "rawScore": "P",
+                    "score": 0.0,
+                    "semester": "2021-2022 2",
+                    "type": "体育"
+                }
+            ],
+            "total": {
+                "count": "50",
+                "credits": 99.5,
+                "gpa": 3.8,
+                "weighted": 91.13
+            }
+        }
+    }
+}
