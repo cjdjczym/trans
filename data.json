@@ -24,7 +24,7 @@
                                 18,
                                 19
                             ],
-                            "weekday": 7
+                            "weekday": 3
                         }
                     ],
                     "campus": "北洋园校区",
@@ -54,7 +54,7 @@
                                 13,
                                 16
                             ],
-                            "weekday": 9
+                            "weekday": 2
                         },
                         {
                             "location": "",
@@ -75,7 +75,7 @@
                                 14,
                                 15
                             ],
-                            "weekday": 9
+                            "weekday": 2
                         }
                     ],
                     "campus": "卫津路校区",
@@ -117,7 +117,7 @@
                                 18,
                                 19
                             ],
-                            "weekday": 3
+                            "weekday": 2
                         },
                         {
                             "location": "33楼204",
@@ -138,7 +138,7 @@
                                 16,
                                 18
                             ],
-                            "weekday": 1
+                            "weekday": 4
                         }
                     ],
                     "campus": "北洋园校区",
@@ -174,7 +174,7 @@
                                 17,
                                 19
                             ],
-                            "weekday": 5
+                            "weekday": 1
                         }
                     ],
                     "campus": "",
@@ -216,7 +216,7 @@
                                 18,
                                 19
                             ],
-                            "weekday": 7
+                            "weekday": 2
                         },
                         {
                             "location": "46楼A209",
@@ -237,7 +237,7 @@
                                 16,
                                 18
                             ],
-                            "weekday": 3
+                            "weekday": 4
                         }
                     ],
                     "campus": "北洋园校区",
@@ -279,7 +279,7 @@
                                 18,
                                 19
                             ],
-                            "weekday": 3
+                            "weekday": 1
                         }
                     ],
                     "campus": "北洋园校区",
@@ -321,7 +321,7 @@
                                 18,
                                 19
                             ],
-                            "weekday": 5
+                            "weekday": 3
                         }
                     ],
                     "campus": "北洋园校区",
@@ -363,7 +363,7 @@
                                 18,
                                 19
                             ],
-                            "weekday": 7
+                            "weekday": 4
                         }
                     ],
                     "campus": "北洋园校区",
@@ -405,7 +405,7 @@
                                 18,
                                 19
                             ],
-                            "weekday": 5
+                            "weekday": 2
                         }
                     ],
                     "campus": "",
@@ -445,7 +445,7 @@
                                 16,
                                 17
                             ],
-                            "weekday": 1
+                            "weekday": 5
                         },
                         {
                             "location": "46楼A120",
@@ -502,7 +502,7 @@
                                 6,
                                 7
                             ],
-                            "weekday": 3
+                            "weekday": 4
                         },
                         {
                             "location": "46楼A107",
@@ -519,7 +519,7 @@
                                 6,
                                 7
                             ],
-                            "weekday": 1
+                            "weekday": 2
                         },
                         {
                             "location": "46楼A107",
@@ -535,7 +535,7 @@
                                 9,
                                 10
                             ],
-                            "weekday": 3
+                            "weekday": 4
                         },
                         {
                             "location": "46楼A107",
@@ -551,7 +551,7 @@
                                 9,
                                 10
                             ],
-                            "weekday": 1
+                            "weekday": 2
                         },
                         {
                             "location": "46楼A107",
@@ -568,7 +568,7 @@
                                 13,
                                 14
                             ],
-                            "weekday": 3
+                            "weekday": 4
                         },
                         {
                             "location": "46楼A107",
@@ -585,7 +585,7 @@
                                 13,
                                 14
                             ],
-                            "weekday": 1
+                            "weekday": 2
                         },
                         {
                             "location": "46楼A107",
@@ -601,7 +601,7 @@
                                 16,
                                 17
                             ],
-                            "weekday": 3
+                            "weekday": 4
                         },
                         {
                             "location": "46楼A107",
@@ -617,7 +617,7 @@
                                 16,
                                 17
                             ],
-                            "weekday": 1
+                            "weekday": 2
                         }
                     ],
                     "campus": "北洋园校区",
@@ -672,7 +672,7 @@
                                 16,
                                 17
                             ],
-                            "weekday": 5
+                            "weekday": 4
                         },
                         {
                             "location": "46楼A309",
@@ -733,7 +733,7 @@
                                 18,
                                 19
                             ],
-                            "weekday": 1
+                            "weekday": 3
                         }
                     ],
                     "campus": "北洋园校区",
